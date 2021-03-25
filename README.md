@@ -42,6 +42,8 @@ Here's a unique visualization of my GitHub profile! What is this? Check out my p
 ## [Kitchen Sink](https://github.com/CJSpohn/niche)
 #### A "what's in my fridge" recipe finder built with React in only four days
 
+<img width="1432" alt="Screen Shot 2021-03-24 at 9 36 25 PM" src="https://user-images.githubusercontent.com/69563078/112415179-fffcf000-8ce8-11eb-9d10-cdc8844175ac.png">
+
 ## [Rotten Tomatillos](https://github.com/CJSpohn/rotten_tomatillos)
 #### A movie rating app built with React
 
