@@ -12,21 +12,7 @@ Here's a unique visualization of my GitHub profile! What is this? Check out my p
 
 #### The languages and tools you can find used on my GitHub include:
 
-* JavaScript
-* HTML
-* CSS
-* Sass
-* React 
-* Redux
-* D3.js
-* Node JS
-* Express
-* Webpack
-* Unit Testing
-* End-to-end testing
-* Mocha
-* Chai
-* Cypress
+##### JavaScript | HTML | CSS | Sass | React | Redux | D3.js | Node JS | Express | Webpack | Unit Testing | End-to-end testing | Mocha | Chai | Cypress
 
 ***
 
