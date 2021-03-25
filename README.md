@@ -16,7 +16,7 @@ Here's a unique visualization of my GitHub profile! What is this? Check out my p
 
 ***
 
-#### If you're interested in my profile some of the projects I'd reccommend checking out are:
+#### If you're interested in my profile some of the projects I'd recommend checking out are:
 
 ## [GitHub Garden](https://github.com/CJSpohn/GitHub-Garden)
 #### This project won first place at the Turing School of Software and Design's internal Demo Competition
