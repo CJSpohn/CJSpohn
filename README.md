@@ -16,7 +16,17 @@ Here's a unique visualization of my GitHub profile! What is this? Check out my p
 
 ***
 
-#### If you're interested in my profile some of the projects I'd recommend checking out are:
+#### Here are a few silly things I've built:
+
+## [Wordle Helper](https://github.com/CJSpohn/wordle-helper)
+#### Never miss another wordle again! 
+
+<div>
+<img width="400" alt="Screen Shot 2021-03-24 at 9 28 55 PM" src="https://user-images.githubusercontent.com/69563078/161582685-df543b64-47df-4134-92c2-a1773b984b97.png">
+<img width="400" alt="Screen Shot 2021-03-24 at 9 28 55 PM" src="https://user-images.githubusercontent.com/69563078/161583071-915f2991-dcb6-4a61-a657-c07f5deb8021.png">
+</div>
+
+
 
 ## [GitHub Garden](https://github.com/CJSpohn/GitHub-Garden)
 #### This project won first place at the Turing School of Software and Design's internal Demo Competition
@@ -24,26 +34,6 @@ Here's a unique visualization of my GitHub profile! What is this? Check out my p
 #### You can see the video submitted to competition [here](https://www.youtube.com/watch?v=EOrDy2ucsjQ)
 
 <img width="1435" alt="Screen Shot 2021-03-24 at 9 28 55 PM" src="https://user-images.githubusercontent.com/69563078/112414610-f2933600-8ce7-11eb-83fd-769b1bc26e60.png">
-
-## [Kitchen Sink](https://github.com/CJSpohn/niche)
-#### A "what's in my fridge" recipe finder built with React in only four days
-
-<img width="1432" alt="Screen Shot 2021-03-24 at 9 36 25 PM" src="https://user-images.githubusercontent.com/69563078/112415179-fffcf000-8ce8-11eb-9d10-cdc8844175ac.png">
-
-## [Rotten Tomatillos](https://github.com/CJSpohn/rotten_tomatillos)
-#### A movie rating app built with React
-
-![Rotten Tomatillos](https://user-images.githubusercontent.com/69563078/108132868-d52bd600-7070-11eb-83f3-b469f870d30f.gif)
-
-## [Travel Tracker](https://github.com/CJSpohn/Travel-Tracker)
-#### A travel agency application built with vanilla JavaScript
-
-<img width="1435" alt="Screen Shot 2021-01-19 at 2 51 09 PM" src="https://user-images.githubusercontent.com/69563078/105099697-517acb80-5a69-11eb-8090-16237ed8d57c.png">
-
-## [FitLit](https://github.com/CJSpohn/FitLit)
-#### A fitness dashboard with a really cool dynamic bar chart built with D3.js
-
-![FitLit](https://user-images.githubusercontent.com/69563078/102535821-ff0f4f00-4065-11eb-9100-1d041a022061.gif)
 
 ***
 
