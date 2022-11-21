@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Chris Spohn and I am a frontend web developer who has discovered a passion for data visualization. I absolutely love learning new technologies and have spent the past 7 months learning web development at the Turing School of Software and Design.
+My name is Chris Spohn and I am a frontend web developer.
 
 Here's a unique visualization of my GitHub profile! What is this? Check out my projects below to learn more!
 
